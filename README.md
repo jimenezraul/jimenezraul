@@ -1,4 +1,4 @@
-![I am a Full Stack Web Developer.](https://github.com/jimenezraul/jimenezraul/assets/img/banner.png)
+![I am a Full Stack Web Developer.](assets/img/banner.png)
 
 ## Hi there 👋, my name is Raul
 
