@@ -40,25 +40,16 @@ I'm a Full stack web developer with the ability to create professional websites 
 Coming soon!
 
 ## ContactMe
-<div id="badges">
-  <a href="https://www.linkedin.com/in/raul-jimenez-778b2a196/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/jimenezraul">
-    <img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="mailto:jimenezraul1981@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
-  </a>
-</div>
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>]([https://www.linkedin.com/in/raul-jimenez-778b2a196/)
+[<img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black"/>]([https://github.com/jimenezraul)
+[<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red"/>](mailto:jimenezraul1981@gmail.com)
+
 
 ## Certifications:
+
+[<img height='100' src="assets/img/pcep-30-01-pcep-certified-entry-level-python-programmer.png"/>](https://www.credly.com/badges/7a168258-69af-453b-b9b2-6c4da247ff4d/public_url)
+[<img height='100' src="assets/img/pcap-31-03-pcap-certified-associate-in-python-programming.png"/>](https://www.credly.com/badges/6c67f5dd-8222-4e99-a80c-668e9d845594/public_url)
 <p>
-<!-- Entry level Python programming -->
-<a href="https://www.credly.com/badges/7a168258-69af-453b-b9b2-6c4da247ff4d/public_url"><img src='assets/img/pcep-30-01-pcep-certified-entry-level-python-programmer.png' alt='' height='100'></a>
-<!-- Associate in Python programming -->
-<a href="https://www.credly.com/badges/6c67f5dd-8222-4e99-a80c-668e9d845594/public_url"><img style="padding-left: 10px;" src='assets/img/pcap-31-03-pcap-certified-associate-in-python-programming.png' alt='' height='100'></a>
-</p>
 
 ## Stats:
 
