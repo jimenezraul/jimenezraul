@@ -1,5 +1,3 @@
-<!-- ![I am a Full Stack Web Developer.](assets/img/banner.png) -->
-
 ## Hi there 👋, my name is Raul
 
 I'm a Full stack web developer with the ability to create professional websites from the ground up. I am passionate about turning ideas into real projects.
@@ -10,31 +8,20 @@ I'm a Full stack web developer with the ability to create professional websites 
 - ⚡ Fun fact: Love to code, travel and listen to music.
 
 ## Languages and Tools:
-<p align="left"> 
-<!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="background-color: black; padding: 5px; border-radius: 5px;" padding: 5px; border-radius: 5px;"/> </a> 
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" padding: 5px; border-radius: 5px;"/> </a> 
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;""/> </a> 
-<!-- TailwindCSS -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;""/> </a>
-<!-- JavaSript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;""/> </a>
-<!-- ReactJS -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;""/> </a>
-<!-- Redux -->
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;""/> </a>
-<!-- Python -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;""/> </a>
-<!-- Django -->
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;""/> </a> 
-<!-- Express -->
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;""/> </a>
-<!-- NodeJS -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;""/> </a>
- <!-- SASS -->
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;""/> </a> </p>
+
+[<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>](https://www.w3.org/html/)
+[<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>](https://www.w3schools.com/css/)
+[<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>](https://getbootstrap.com)
+[<img width="40" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>](https://tailwindcss.com/)
+[<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>](https://reactjs.org/)
+[<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>](https://redux.js.org)
+[<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>](https://www.python.org)
+[<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/>](https://www.djangoproject.com/)
+[<img width="40" height="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/>](https://expressjs.com)
+[<img width="40" height="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>](https://nodejs.org)
+[<img width="40" height="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>](https://sass-lang.com)
+
 
 ## My Projects:
 Coming soon!
