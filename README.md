@@ -18,9 +18,9 @@ I'm a Full stack web developer with the ability to create professional websites 
 [<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>](https://redux.js.org)
 [<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>](https://www.python.org)
 [<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/>](https://www.djangoproject.com/)
-[<img width="40" height="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/>](https://expressjs.com)
-[<img width="40" height="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>](https://nodejs.org)
-[<img width="40" height="40" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>](https://sass-lang.com)
+[<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"/>](https://expressjs.com)
+[<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>](https://nodejs.org)
+[<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>](https://sass-lang.com)
 
 
 ## My Projects:
@@ -35,7 +35,6 @@ Coming soon!
 
 [<img height='100' src="assets/img/pcep-30-01-pcep-certified-entry-level-python-programmer.png"/>](https://www.credly.com/badges/7a168258-69af-453b-b9b2-6c4da247ff4d/public_url)
 [<img height='100' src="assets/img/pcap-31-03-pcap-certified-associate-in-python-programming.png"/>](https://www.credly.com/badges/6c67f5dd-8222-4e99-a80c-668e9d845594/public_url)
-<p>
 
 ## Stats:
 
