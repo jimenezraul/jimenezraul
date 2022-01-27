@@ -40,10 +40,9 @@ I'm a Full stack web developer with the ability to create professional websites 
 Coming soon!
 
 ## ContactMe
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>]([https://www.linkedin.com/in/raul-jimenez-778b2a196/)
-[<img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black"/>]([https://github.com/jimenezraul)
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/raul-jimenez-778b2a196/)
+[<img src="https://img.shields.io/badge/github-white?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/jimenezraul)
 [<img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red"/>](mailto:jimenezraul1981@gmail.com)
-
 
 ## Certifications:
 
