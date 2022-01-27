@@ -12,7 +12,7 @@ I'm a Full stack web developer with the ability to create professional websites 
 ## Languages and Tools:
 <p align="left"> 
 <!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" padding: 5px; border-radius: 5px;"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="background-color: black; padding: 5px; border-radius: 5px;" padding: 5px; border-radius: 5px;"/> </a> 
 <!-- CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" padding: 5px; border-radius: 5px;"/> </a> 
 <!-- Bootstrap -->
