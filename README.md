@@ -3,8 +3,9 @@
 I'm a Full stack web developer with the ability to create professional websites from the ground up. I am passionate about turning ideas into real projects.
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning at UCF Bootcamp. 
-- 👯 I’m looking to collaborate on Open source projects. 
+- 🌱 I’m currently learning Coding at UCF Bootcamp. 
+- 👁️ I’m looking to collaborate on Open source projects. 
+- 💬 Ask me about any of the languages and tools I use.
 - ⚡ Fun fact: Love to code, travel and listen to music.
 
 ## Languages and Tools
