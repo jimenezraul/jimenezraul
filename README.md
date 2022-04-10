@@ -23,7 +23,12 @@
 
 
 ## My Projects
-Coming soon!
+Inventory Management System   
+[GitHub](https://github.com/jimenezraul/IMS)   
+[<img height='150' src="assets/img/main.png"/>](https://ims-inventory-s.herokuapp.com/)   
+CoinHiz   
+[GitHub](https://github.com/jimenezraul/coinhiz)   
+[<img height='150' src="assets/img/coinhiz.jpg"/>](https://jimenezraul.github.io/coinhiz/)
 
 ## ContactMe
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/raul-jimenez-778b2a196/)
