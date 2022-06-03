@@ -1,8 +1,8 @@
 ## Hi there 👋, my name is Raul
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I'm currently learning Full Stack Development. 
-- 👁️ I’m looking to collaborate on Open source projects. 
+- 🔭 I’m currently working on this page.
+- 🌱 I'm currently learning Full Stack Development.
+- 👁️ I’m looking to collaborate on Open source projects.
 - 💬 Ask me about any of the languages and tools I use.
 - ⚡ Fun fact: Love to code, travel and listen to music.
 
@@ -21,16 +21,20 @@
 [<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>](https://nodejs.org)
 [<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>](https://sass-lang.com)
 
-
 ## My Projects
-Inventory Management System   
-[GitHub](https://github.com/jimenezraul/IMS)   
-[<img height='150' src="assets/img/main.png"/>](https://ims-inventory-s.herokuapp.com/)   
-CoinHiz   
-[GitHub](https://github.com/jimenezraul/coinhiz)   
+
+ProPet | E-commerce  
+[GitHub](https://github.com/jimenezraul/pet-supplies-store)  
+[<img height='150' src="assets/img/pet-store.png"/>](https://afternoon-spire-43659.herokuapp.com/)  
+Inventory Management System  
+[GitHub](https://github.com/jimenezraul/IMS)  
+[<img height='150' src="assets/img/main.png"/>](https://ims-inventory-s.herokuapp.com/)  
+CoinHiz  
+[GitHub](https://github.com/jimenezraul/coinhiz)  
 [<img height='150' src="assets/img/coinhiz.jpg"/>](https://jimenezraul.github.io/coinhiz/)
 
 ## ContactMe
+
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/raul-jimenez-778b2a196/)
 [<img src="https://img.shields.io/badge/github-brown?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/jimenezraul)
 [<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:jimenezraul1981@gmail.com)
