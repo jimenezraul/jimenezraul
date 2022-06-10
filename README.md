@@ -1,7 +1,6 @@
 ## Hi there 👋, my name is Raul
 
-- 🔭 I’m currently working on this page.
-- 🌱 I'm currently learning Full Stack Development.
+- 🌱 I'm a Full Stack Web Development.
 - 👁️ I’m looking to collaborate on Open source projects.
 - 💬 Ask me about any of the languages and tools I use.
 - ⚡ Fun fact: Love to code, travel and listen to music.
@@ -29,6 +28,9 @@ ProPet | E-commerce
 Inventory Management System  
 [GitHub](https://github.com/jimenezraul/IMS)  
 [<img height='150' src="assets/img/main.png"/>](https://ims-inventory-s.herokuapp.com/)  
+The Tech Blog  
+[GitHub](https://github.com/jimenezraul/mvc-tech-blog)  
+[<img height='150' src="assets/img/the-tech-blog.png"/>](https://peaceful-hollows-93155.herokuapp.com/)  
 CoinHiz  
 [GitHub](https://github.com/jimenezraul/coinhiz)  
 [<img height='150' src="assets/img/coinhiz.jpg"/>](https://jimenezraul.github.io/coinhiz/)
