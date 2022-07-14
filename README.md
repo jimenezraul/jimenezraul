@@ -22,6 +22,9 @@
 
 ## My Projects
 
+Barber Scheduling App   
+[GitHub](https://github.com/jimenezraul/BarberSchedulingApp)  
+[<img height='150' src="assets/img/barberapp.png"/>](https://limitless-spire-83509.herokuapp.com/)  
 ProPet | E-commerce  
 [GitHub](https://github.com/jimenezraul/pet-supplies-store)  
 [<img height='150' src="assets/img/pet-store.png"/>](https://afternoon-spire-43659.herokuapp.com/)  
