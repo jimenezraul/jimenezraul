@@ -21,8 +21,10 @@
 [<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>](https://sass-lang.com)
 
 ## My Projects
-
-Barber Scheduling App   
+BookMe Scheduling App | Square API   
+[GitHub](https://github.com/jimenezraul/BookMe)  
+[<img height='150' src="assets/img/bookme.png"/>](https://desolate-chamber-34231.herokuapp.com/)  
+Barber Scheduling App | Setmore API   
 [GitHub](https://github.com/jimenezraul/BarberSchedulingApp)  
 [<img height='150' src="assets/img/barberapp.png"/>](https://limitless-spire-83509.herokuapp.com/)  
 ProPet | E-commerce  
