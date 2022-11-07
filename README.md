@@ -18,7 +18,10 @@ I am a Full Stack Developer with a passion for building beautiful and user-frien
 [<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>](https://sass-lang.com)
 
 ## My Projects
-BookMe Scheduling App | Square API   
+ConnectME | Social Media App  
+[GitHub](https://github.com/jimenezraul/social-media)  
+[<img height='150' src="assets/img/connectme.png"/>](https://morning-tundra-02449.herokuapp.com/)  
+BookMe | Scheduling App | Square API   
 [GitHub](https://github.com/jimenezraul/BookMe)  
 [<img height='150' src="assets/img/bookme.png"/>](https://desolate-chamber-34231.herokuapp.com/)  
 Barber Scheduling App | Setmore API   
