@@ -64,9 +64,10 @@ CoinHiz
 
 [<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>](https://www.npmjs.com/~jimenezraul)
 
-[auto-hide-hook](https://www.npmjs.com/package/auto-hide-hook) ![npm](https://img.shields.io/npm/dw/auto-hide-hook)   
-[ufetch-hook](https://www.npmjs.com/package/ufetch-hook) ![npm](https://img.shields.io/npm/dw/ufetch-hook)     
-[indexeddbpromise](https://www.npmjs.com/package/indexeddbpromise) ![npm](https://img.shields.io/npm/dw/indexeddbpromise) 
+[Auto-Hide-Hook](https://www.npmjs.com/package/auto-hide-hook) ![npm](https://img.shields.io/npm/dw/auto-hide-hook)   
+[uFetch-Hook](https://www.npmjs.com/package/ufetch-hook) ![npm](https://img.shields.io/npm/dw/ufetch-hook)     
+[IndexedDBPromise](https://www.npmjs.com/package/indexeddbpromise) ![npm](https://img.shields.io/npm/dw/indexeddbpromise)  
+[Auth](https://www.npmjs.com/package/@jimenezraul/auth) ![npm](https://img.shields.io/npm/dw/@jimenezraul/auth)
 
 ## ContactMe
 
