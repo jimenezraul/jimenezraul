@@ -78,7 +78,8 @@ CoinHiz
 
 ## Certifications
 
-[<img height='150' src="assets/img/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f.jpeg"/>](https://www.udemy.com/certificate/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f/)
+[<img height='155' src="assets/img/bootcamp.png"/>](https://badgr.com/public/assertions/H25wO7OQR0GZrar8Uwsybw)   
+[<img height='150' src="assets/img/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f.jpeg"/>](https://www.udemy.com/certificate/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f/)   
 [<img height='150' src="assets/img/pcep-30-01-pcep-certified-entry-level-python-programmer.png"/>](https://www.credly.com/badges/7a168258-69af-453b-b9b2-6c4da247ff4d/public_url)
 [<img height='150' src="assets/img/pcap-31-03-pcap-certified-associate-in-python-programming.png"/>](https://www.credly.com/badges/6c67f5dd-8222-4e99-a80c-668e9d845594/public_url)
 
