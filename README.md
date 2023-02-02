@@ -68,7 +68,8 @@ CoinHiz
 [uFetch-Hook](https://www.npmjs.com/package/ufetch-hook) ![npm](https://img.shields.io/npm/dw/ufetch-hook)     
 [IndexedDBPromise](https://www.npmjs.com/package/indexeddbpromise) ![npm](https://img.shields.io/npm/dw/indexeddbpromise)  
 [Auth](https://www.npmjs.com/package/@jimenezraul/auth) ![npm](https://img.shields.io/npm/dw/@jimenezraul/auth)   
-[Form Validation](https://www.npmjs.com/package/@jimenezraul/form-validation) ![npm](https://img.shields.io/npm/dw/@jimenezraul/form-validation)
+[Form Validation](https://www.npmjs.com/package/@jimenezraul/form-validation) ![npm](https://img.shields.io/npm/dw/@jimenezraul/form-validation)   
+[Setmore-SDK](https://www.npmjs.com/package/setmore-sdk) ![npm](https://img.shields.io/npm/dw/setmore-sdk)
 
 ## ContactMe
 
