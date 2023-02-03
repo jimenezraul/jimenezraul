@@ -38,25 +38,25 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 
 ## My Projects
 
-ConnectME | Social Media App  
+#### ConnectME | Social Media App  
 [GitHub](https://github.com/jimenezraul/social-media)  
 [<img height='150' src="assets/img/connectme.png"/>](https://morning-tundra-02449.herokuapp.com/)  
-BookMe | Scheduling App | Square API  
+#### BookMe | Scheduling App | Square API  
 [GitHub](https://github.com/jimenezraul/BookMe)  
 [<img height='150' src="assets/img/bookme.png"/>](https://desolate-chamber-34231.herokuapp.com/)  
-Barber Scheduling App | Setmore API  
+#### Barber Scheduling App | Setmore API  
 [GitHub](https://github.com/jimenezraul/BarberSchedulingApp)  
 [<img height='150' src="assets/img/barberapp.png"/>](https://limitless-spire-83509.herokuapp.com/)  
-ProPet | E-commerce  
+#### ProPet | E-commerce  
 [GitHub](https://github.com/jimenezraul/pet-supplies-store)  
 [<img height='150' src="assets/img/pet-store.png"/>](https://afternoon-spire-43659.herokuapp.com/)  
-Inventory Management System  
+#### Inventory Management System  
 [GitHub](https://github.com/jimenezraul/IMS)  
 [<img height='150' src="assets/img/main.png"/>](https://ims-inventory-s.herokuapp.com/)  
-The Tech Blog  
+#### The Tech Blog  
 [GitHub](https://github.com/jimenezraul/mvc-tech-blog)  
 [<img height='150' src="assets/img/the-tech-blog.png"/>](https://peaceful-hollows-93155.herokuapp.com/)  
-CoinHiz  
+#### CoinHiz  
 [GitHub](https://github.com/jimenezraul/coinhiz)  
 [<img height='150' src="assets/img/coinhiz.jpg"/>](https://jimenezraul.github.io/coinhiz/)
 
