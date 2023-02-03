@@ -39,25 +39,25 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 ## My Projects
 
 #### ConnectME | Social Media App  
-[GitHub](https://github.com/jimenezraul/social-media)  
+[GitHub](https://github.com/jimenezraul/social-media) | [Live Demo](https://morning-tundra-02449.herokuapp.com/)   
 [<img height='150' src="assets/img/connectme.png"/>](https://morning-tundra-02449.herokuapp.com/)  
 #### BookMe | Scheduling App | Square API  
-[GitHub](https://github.com/jimenezraul/BookMe)  
+[GitHub](https://github.com/jimenezraul/BookMe) | [Live Demo](https://desolate-chamber-34231.herokuapp.com/)   
 [<img height='150' src="assets/img/bookme.png"/>](https://desolate-chamber-34231.herokuapp.com/)  
 #### Barber Scheduling App | Setmore API  
-[GitHub](https://github.com/jimenezraul/BarberSchedulingApp)  
+[GitHub](https://github.com/jimenezraul/BarberSchedulingApp) | [Live Demo](https://limitless-spire-83509.herokuapp.com/)   
 [<img height='150' src="assets/img/barberapp.png"/>](https://limitless-spire-83509.herokuapp.com/)  
 #### ProPet | E-commerce  
-[GitHub](https://github.com/jimenezraul/pet-supplies-store)  
+[GitHub](https://github.com/jimenezraul/pet-supplies-store) | [Live Demo](https://afternoon-spire-43659.herokuapp.com/)   
 [<img height='150' src="assets/img/pet-store.png"/>](https://afternoon-spire-43659.herokuapp.com/)  
 #### Inventory Management System  
-[GitHub](https://github.com/jimenezraul/IMS)  
+[GitHub](https://github.com/jimenezraul/IMS) | [Live Demo](https://ims-inventory-s.herokuapp.com/)   
 [<img height='150' src="assets/img/main.png"/>](https://ims-inventory-s.herokuapp.com/)  
 #### The Tech Blog  
-[GitHub](https://github.com/jimenezraul/mvc-tech-blog)  
+[GitHub](https://github.com/jimenezraul/mvc-tech-blog) | [Live Demo](https://peaceful-hollows-93155.herokuapp.com/)   
 [<img height='150' src="assets/img/the-tech-blog.png"/>](https://peaceful-hollows-93155.herokuapp.com/)  
 #### CoinHiz  
-[GitHub](https://github.com/jimenezraul/coinhiz)  
+[GitHub](https://github.com/jimenezraul/coinhiz) | [Live Demo](https://jimenezraul.github.io/coinhiz/)   
 [<img height='150' src="assets/img/coinhiz.jpg"/>](https://jimenezraul.github.io/coinhiz/)
 
 ## My NPM Packages
