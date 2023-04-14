@@ -31,6 +31,11 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
+![Spring oAuth2 Resouces Server](https://img.shields.io/badge/Spring_OAuth2_Resources_Server-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## My Portfolio
 
@@ -81,8 +86,10 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 
 [<img height='155' src="assets/img/bootcamp.png"/>](https://badgr.com/public/assertions/H25wO7OQR0GZrar8Uwsybw)   
 [<img height='150' src="assets/img/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f.jpeg"/>](https://www.udemy.com/certificate/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f/)   
+[<img height='150' src="assets/img/java.png"/>](https://www.udemy.com/certificate/UC-e984cf59-d576-431e-b041-043321acc3e1/)   
 [<img height='150' src="assets/img/pcep-30-01-pcep-certified-entry-level-python-programmer.png"/>](https://www.credly.com/badges/7a168258-69af-453b-b9b2-6c4da247ff4d/public_url)
-[<img height='150' src="assets/img/pcap-31-03-pcap-certified-associate-in-python-programming.png"/>](https://www.credly.com/badges/6c67f5dd-8222-4e99-a80c-668e9d845594/public_url)
+[<img height='150' src="assets/img/pcap-31-03-pcap-certified-associate-in-python-programming.png"/>](https://www.credly.com/badges/6c67f5dd-8222-4e99-a80c-668e9d845594/public_url)   
+
 
 ## Stats
 
