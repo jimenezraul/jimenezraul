@@ -41,27 +41,6 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>](https://raulwebdev.com/)
 
-## My Projects
-
-#### ConnectME | Social Media App  
-[GitHub](https://github.com/jimenezraul/social-media) | [Live Demo](https://connectme-i093.onrender.com/)   
-[<img height='150' src="assets/img/connectme.png"/>](https://connectme-i093.onrender.com/)  
-#### BookMe | Scheduling App | Square API  
-[GitHub](https://github.com/jimenezraul/BookMe) | [Live Demo](https://book-me-one.vercel.app/)   
-[<img height='150' src="assets/img/bookme.png"/>](https://book-me-one.vercel.app/)  
-#### ProPet | E-commerce  
-[GitHub](https://github.com/jimenezraul/pet-supplies-store) | [Live Demo](https://propet-06m8.onrender.com/)   
-[<img height='150' src="assets/img/pet-store.png"/>](https://propet-06m8.onrender.com/)  
-#### Inventory Management System  
-[GitHub](https://github.com/jimenezraul/IMS) | [Live Demo](https://ims-uilh.onrender.com/)   
-[<img height='150' src="assets/img/main.png"/>](https://ims-uilh.onrender.com/)  
-#### The Tech Blog  
-[GitHub](https://github.com/jimenezraul/mvc-tech-blog) | [Live Demo](https://blog-x07x.onrender.com/)   
-[<img height='150' src="assets/img/the-tech-blog.png"/>](https://blog-x07x.onrender.com/)  
-#### CoinHiz  
-[GitHub](https://github.com/jimenezraul/coinhiz) | [Live Demo](https://jimenezraul.github.io/coinhiz/)   
-[<img height='150' src="assets/img/coinhiz.jpg"/>](https://jimenezraul.github.io/coinhiz/)
-
 ## My NPM Packages
 
 [<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>](https://www.npmjs.com/~jimenezraul)
@@ -78,14 +57,6 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/raul-jimenez-778b2a196/)
 [<img src="https://img.shields.io/badge/github-brown?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/jimenezraul)
 [<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:jimenezraul1981@gmail.com)
-
-## Certifications
-
-[<img height='155' src="assets/img/bootcamp.png"/>](https://badgr.com/public/assertions/H25wO7OQR0GZrar8Uwsybw)   
-[<img height='150' src="assets/img/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f.jpeg"/>](https://www.udemy.com/certificate/UC-4afac34e-7da6-4ba1-a3bb-a7f6e5c21f6f/)   
-[<img height='150' src="assets/img/java.png"/>](https://www.udemy.com/certificate/UC-e984cf59-d576-431e-b041-043321acc3e1/)   
-[<img height='150' src="assets/img/pcep-30-01-pcep-certified-entry-level-python-programmer.png"/>](https://www.credly.com/badges/7a168258-69af-453b-b9b2-6c4da247ff4d/public_url)
-[<img height='150' src="assets/img/pcap-31-03-pcap-certified-associate-in-python-programming.png"/>](https://www.credly.com/badges/6c67f5dd-8222-4e99-a80c-668e9d845594/public_url)   
 
 
 ## Stats
